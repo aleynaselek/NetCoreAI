@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project1_ApiDemo"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project2_ApiConsumeUI", "NetCoreAI.Project2_ApiConsumeUI\NetCoreAI.Project2_ApiConsumeUI.csproj", "{028E5A5F-EE23-4CAB-8A37-E6CB0CD27CD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project3_RapidApi", "NetCoreAI.Project3_RapidApi\NetCoreAI.Project3_RapidApi.csproj", "{7F1D1422-2EFE-4761-99E9-94E3021DF59F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project4_OpenAIChat", "NetCoreAI.Project4_OpenAIChat\NetCoreAI.Project4_OpenAIChat.csproj", "{EB089D28-F262-4F6F-8D1C-AFAE33659429}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{028E5A5F-EE23-4CAB-8A37-E6CB0CD27CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{028E5A5F-EE23-4CAB-8A37-E6CB0CD27CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{028E5A5F-EE23-4CAB-8A37-E6CB0CD27CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1D1422-2EFE-4761-99E9-94E3021DF59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1D1422-2EFE-4761-99E9-94E3021DF59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1D1422-2EFE-4761-99E9-94E3021DF59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1D1422-2EFE-4761-99E9-94E3021DF59F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB089D28-F262-4F6F-8D1C-AFAE33659429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB089D28-F262-4F6F-8D1C-AFAE33659429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB089D28-F262-4F6F-8D1C-AFAE33659429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB089D28-F262-4F6F-8D1C-AFAE33659429}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
