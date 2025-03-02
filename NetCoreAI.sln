@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project1_ApiDemo", "NetCoreAI.Project1_ApiDemo\NetCoreAI.Project1_ApiDemo.csproj", "{DEE7B87E-AA30-4D8D-A677-23242D2AE62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project2_ApiConsumeUI", "NetCoreAI.Project2_ApiConsumeUI\NetCoreAI.Project2_ApiConsumeUI.csproj", "{028E5A5F-EE23-4CAB-8A37-E6CB0CD27CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEE7B87E-AA30-4D8D-A677-23242D2AE62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE7B87E-AA30-4D8D-A677-23242D2AE62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE7B87E-AA30-4D8D-A677-23242D2AE62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE7B87E-AA30-4D8D-A677-23242D2AE62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028E5A5F-EE23-4CAB-8A37-E6CB0CD27CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028E5A5F-EE23-4CAB-8A37-E6CB0CD27CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028E5A5F-EE23-4CAB-8A37-E6CB0CD27CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028E5A5F-EE23-4CAB-8A37-E6CB0CD27CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2DB75C1-00B0-4CF4-BBD0-0F83725D748D}
+	EndGlobalSection
+EndGlobal
