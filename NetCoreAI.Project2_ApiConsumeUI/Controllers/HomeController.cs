@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using NetCoreAI.Project2_ApiConsumeUI.Models;
+using NetCoreAI.Project02_ApiConsumeUI.Models;
 using System.Diagnostics;
 
-namespace NetCoreAI.Project2_ApiConsumeUI.Controllers
+namespace NetCoreAI.Project02_ApiConsumeUI.Controllers
 {
     public class HomeController : Controller
     {

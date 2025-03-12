@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using NetCoreAI.Project2_ApiConsumeUI.Dtos;
+using NetCoreAI.Project02_ApiConsumeUI.Dtos;
 using Newtonsoft.Json;
 using System.Text;
 
-namespace NetCoreAI.Project2_ApiConsumeUI.Controllers
+namespace NetCoreAI.Project02_ApiConsumeUI.Controllers
 {
     public class CustomerController : Controller
     {

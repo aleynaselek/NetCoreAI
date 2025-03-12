@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using NetCoreAI.Project1_ApiDemo.Enitities;
+using NetCoreAI.Project01_ApiDemo.Enitities;
 
-namespace NetCoreAI.Project1_ApiDemo.Context
+namespace NetCoreAI.Project01_ApiDemo.Context
 {
     public class ApiContext : DbContext
     {

@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using NetCoreAI.Project1_ApiDemo.Context;
-using NetCoreAI.Project1_ApiDemo.Enitities;
+using NetCoreAI.Project01_ApiDemo.Context;
+using NetCoreAI.Project01_ApiDemo.Enitities;
 
-namespace NetCoreAI.Project1_ApiDemo.Controllers
+namespace NetCoreAI.Project01_ApiDemo.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

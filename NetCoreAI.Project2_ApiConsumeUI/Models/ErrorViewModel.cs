@@ -1,4 +1,4 @@
-namespace NetCoreAI.Project2_ApiConsumeUI.Models
+namespace NetCoreAI.Project02_ApiConsumeUI.Models
 {
     public class ErrorViewModel
     {

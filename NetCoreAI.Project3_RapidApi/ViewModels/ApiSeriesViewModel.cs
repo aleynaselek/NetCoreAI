@@ -1,4 +1,4 @@
-﻿namespace NetCoreAI.Project3_RapidApi.ViewModels
+﻿namespace NetCoreAI.Project03_RapidApi.ViewModels
 {
     public class ApiSeriesViewModel
     { 

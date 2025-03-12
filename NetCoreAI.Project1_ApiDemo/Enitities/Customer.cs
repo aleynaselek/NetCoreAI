@@ -1,4 +1,4 @@
-﻿namespace NetCoreAI.Project1_ApiDemo.Enitities
+﻿namespace NetCoreAI.Project01_ApiDemo.Enitities
 {
     public class Customer
     { 

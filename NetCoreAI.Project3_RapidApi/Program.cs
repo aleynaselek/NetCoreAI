@@ -1,4 +1,4 @@
-﻿using NetCoreAI.Project3_RapidApi.ViewModels;
+﻿using NetCoreAI.Project03_RapidApi.ViewModels;
 using Newtonsoft.Json; 
 
 var client = new HttpClient();
