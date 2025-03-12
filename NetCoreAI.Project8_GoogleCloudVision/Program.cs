@@ -1,5 +1,5 @@
 ﻿using Google.Cloud.Vision.V1;
-using static Google.Protobuf.Reflection.GeneratedCodeInfo.Types;
+using static Google.Protobuf.Reflection.GeneratedCodeInfo.Types; 
 
 class Program
 {
@@ -34,6 +34,6 @@ class Program
         catch (Exception ex)
         {
             Console.WriteLine($"Bir hata oluştu {ex.Message}");
-        } 
+        }
     }
 }
