@@ -3,7 +3,7 @@ using System.Text.Json;
 
 class Program
 {
-    private static readonly string googleApiKey = "AIzaSyB78vLrMYNweWG1rqtZqiK6NXZSzOZnxXA";
+    private static readonly string googleApiKey = "";
     private static readonly string imagePath = "C:\\Users\\Aleyna\\Downloads\\downloadkk.jpg"; 
 
     static async Task Main()
