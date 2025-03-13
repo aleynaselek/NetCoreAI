@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace NetCoreAI.Project1_ApiDemo.Migrations
+namespace NetCoreAI.Project01_ApiDemo.Migrations
 {
     /// <inheritdoc />
     public partial class initial_migration : Migration

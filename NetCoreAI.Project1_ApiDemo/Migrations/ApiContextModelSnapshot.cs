@@ -3,11 +3,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using NetCoreAI.Project1_ApiDemo.Context;
+using NetCoreAI.Project01_ApiDemo.Context;
 
 #nullable disable
 
-namespace NetCoreAI.Project1_ApiDemo.Migrations
+namespace NetCoreAI.Project01_ApiDemo.Migrations
 {
     [DbContext(typeof(ApiContext))]
     partial class ApiContextModelSnapshot : ModelSnapshot
@@ -21,7 +21,7 @@ namespace NetCoreAI.Project1_ApiDemo.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("NetCoreAI.Project1_ApiDemo.Enitities.Customer", b =>
+            modelBuilder.Entity("NetCoreAI.Project01_ApiDemo.Enitities.Customer", b =>
                 {
                     b.Property<int>("CustomerId")
                         .ValueGeneratedOnAdd()
